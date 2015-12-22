@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: dc53dab3cac095c46b675e612b22b7e6
+timeCreated: 1445021184
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MoutonChevreCourir_0
+    21300002: MoutonChevreCourir_1
+    21300004: MoutonChevreCourir_2
+    21300006: MoutonChevreCourir_3
+    21300008: MoutonChevreCourir_4
+    21300010: MoutonChevreCourir_5
+    21300012: MoutonChevreCourir_6
+    21300014: MoutonChevreCourir_7
+    21300016: MoutonChevreCourir_8
+    21300018: MoutonChevreCourir_9
+    21300020: MoutonChevreCourir_10
+    21300022: MoutonChevreCourir_11
+    21300024: MoutonChevreCourir_12
+    21300026: MoutonChevreCourir_13
+    21300028: MoutonChevreCourir_14
+    21300030: MoutonChevreCourir_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MoutonChevreCourir_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3642
+        width: 679
+        height: 454
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreCourir_1
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 3642
+        width: 679
+        height: 454
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreCourir_2
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 3642
+        width: 679
+        height: 454
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreCourir_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3188
+        width: 679
+        height: 454
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreCourir_4
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 3188
+        width: 679
+        height: 454
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreCourir_5
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 3188
+        width: 679
+        height: 454
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreCourir_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2734
+        width: 679
+        height: 454
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreCourir_7
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2734
+        width: 679
+        height: 454
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreCourir_8
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 2734
+        width: 679
+        height: 454
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreCourir_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 679
+        height: 454
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreCourir_10
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2280
+        width: 679
+        height: 454
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreCourir_11
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 2280
+        width: 679
+        height: 454
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreCourir_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1826
+        width: 679
+        height: 454
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreCourir_13
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1826
+        width: 679
+        height: 454
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreCourir_14
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1826
+        width: 679
+        height: 454
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreCourir_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1372
+        width: 679
+        height: 454
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

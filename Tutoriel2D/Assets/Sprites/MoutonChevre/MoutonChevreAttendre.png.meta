@@ -1,0 +1,551 @@
+fileFormatVersion: 2
+guid: eb898bb85ce16e64bbd09bcf72e127ff
+timeCreated: 1445021209
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MoutonChevreAttendre_0
+    21300002: MoutonChevreAttendre_1
+    21300004: MoutonChevreAttendre_2
+    21300006: MoutonChevreAttendre_3
+    21300008: MoutonChevreAttendre_4
+    21300010: MoutonChevreAttendre_5
+    21300012: MoutonChevreAttendre_6
+    21300014: MoutonChevreAttendre_7
+    21300016: MoutonChevreAttendre_8
+    21300018: MoutonChevreAttendre_9
+    21300020: MoutonChevreAttendre_10
+    21300022: MoutonChevreAttendre_11
+    21300024: MoutonChevreAttendre_12
+    21300026: MoutonChevreAttendre_13
+    21300028: MoutonChevreAttendre_14
+    21300030: MoutonChevreAttendre_15
+    21300032: MoutonChevreAttendre_16
+    21300034: MoutonChevreAttendre_17
+    21300036: MoutonChevreAttendre_18
+    21300038: MoutonChevreAttendre_19
+    21300040: MoutonChevreAttendre_20
+    21300042: MoutonChevreAttendre_21
+    21300044: MoutonChevreAttendre_22
+    21300046: MoutonChevreAttendre_23
+    21300048: MoutonChevreAttendre_24
+    21300050: MoutonChevreAttendre_25
+    21300052: MoutonChevreAttendre_26
+    21300054: MoutonChevreAttendre_27
+    21300056: MoutonChevreAttendre_28
+    21300058: MoutonChevreAttendre_29
+    21300060: MoutonChevreAttendre_30
+    21300062: MoutonChevreAttendre_31
+    21300064: MoutonChevreAttendre_32
+    21300066: MoutonChevreAttendre_33
+    21300068: MoutonChevreAttendre_34
+    21300070: MoutonChevreAttendre_35
+    21300072: MoutonChevreAttendre_36
+    21300074: MoutonChevreAttendre_37
+    21300076: MoutonChevreAttendre_38
+    21300078: MoutonChevreAttendre_39
+    21300080: MoutonChevreAttendre_40
+    21300082: MoutonChevreAttendre_41
+    21300084: MoutonChevreAttendre_42
+    21300086: MoutonChevreAttendre_43
+    21300088: MoutonChevreAttendre_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MoutonChevreAttendre_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3652
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3652
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3652
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_3
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 3652
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_4
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3652
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3208
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3208
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3208
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_8
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 3208
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_9
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3208
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2764
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2764
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_12
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2764
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_13
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2764
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2764
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2320
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2320
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_17
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2320
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_18
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2320
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2320
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1876
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1876
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1876
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_23
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1876
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1876
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1432
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_26
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1432
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_27
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1432
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_28
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1432
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_29
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1432
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 988
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 988
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_32
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 988
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_33
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 988
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_34
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 988
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_36
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 544
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_37
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 544
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_38
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 544
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_39
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 544
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 100
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_42
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 100
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_43
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 100
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MoutonChevreAttendre_44
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 100
+        width: 375
+        height: 444
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
