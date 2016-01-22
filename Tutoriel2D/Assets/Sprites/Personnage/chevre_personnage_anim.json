@@ -1,0 +1,203 @@
+﻿{"frames": {
+
+"MoutonChevreMarche0000":
+{
+	"frame": {"x":0,"y":0,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0001":
+{
+	"frame": {"x":469,"y":0,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0002":
+{
+	"frame": {"x":938,"y":0,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0003":
+{
+	"frame": {"x":1407,"y":0,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0004":
+{
+	"frame": {"x":1876,"y":0,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0005":
+{
+	"frame": {"x":2345,"y":0,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0006":
+{
+	"frame": {"x":2814,"y":0,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0007":
+{
+	"frame": {"x":3283,"y":0,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0008":
+{
+	"frame": {"x":0,"y":433,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0009":
+{
+	"frame": {"x":469,"y":433,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0010":
+{
+	"frame": {"x":938,"y":433,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0011":
+{
+	"frame": {"x":1407,"y":433,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0012":
+{
+	"frame": {"x":1876,"y":433,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0013":
+{
+	"frame": {"x":2345,"y":433,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0014":
+{
+	"frame": {"x":2814,"y":433,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0015":
+{
+	"frame": {"x":3283,"y":433,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0016":
+{
+	"frame": {"x":0,"y":866,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0017":
+{
+	"frame": {"x":469,"y":866,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0018":
+{
+	"frame": {"x":938,"y":866,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0019":
+{
+	"frame": {"x":1407,"y":866,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0020":
+{
+	"frame": {"x":1876,"y":866,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0021":
+{
+	"frame": {"x":2345,"y":866,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0022":
+{
+	"frame": {"x":2814,"y":866,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+},
+"MoutonChevreMarche0023":
+{
+	"frame": {"x":3283,"y":866,"w":469,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":469,"h":433},
+	"sourceSize": {"w":469,"h":433}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.1.179",
+	"image": "chevre_personnage_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1"
+}
+}
